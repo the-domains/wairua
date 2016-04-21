@@ -1,0 +1,28 @@
+name: Wairua
+favicon: null
+layout_spectrum: 0.11608579778112471
+typography_spectrum: 0.9496714188717306
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.42435862543061376
+  lightness: 0.2362979545723647
+  saturation: 0.5626145773567259
+  rhythmicContrast: 0.8658153794240206
+purpose: []
