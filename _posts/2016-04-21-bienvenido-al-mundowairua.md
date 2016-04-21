@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'Te presentamos una nueva y exclusiva manera de vivir la vida. WAIRUA nace como complemento al mundo activo y con valor estético de los adultos y jóvenes bogotanos.Combinamos tecnología, naturaleza y medicina para ayudarte a alcanzar un cuerpo saludable, una mente brillante y un espíritu limpio.Además contamos con un excelente grupo de médicos especializados, apoyados por un completo equipo profesional y ubicados en una privilegiada zona de Bogotá.'
-datePublished: '2016-04-21T00:46:20.194Z'
-dateModified: '2016-04-21T00:45:58.738Z'
-title: Bienvenido al MundoWAIRUA.
+description: 'Te presentamos una nueva y exclusiva manera de vivir la vida. WAIRUA nace como complemento al mundo activo y con valor estético de los adultos y jóvenes bogotanos. Combinamos tecnología, naturaleza y medicina para ayudarte a alcanzar un cuerpo saludable, una mente brillante y un espíritu limpio. Además contamos con un excelente grupo de médicos especializados, apoyados por un completo equipo profesional y ubicados en una privilegiada zona de Bogotá.'
+datePublished: '2016-04-21T01:47:38.024Z'
+dateModified: '2016-04-21T00:46:27.830Z'
+title: Bienvenido al Mundo WAIRUA.
 author: []
+sourcePath: _posts/2016-04-21-bienvenido-al-mundowairua.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-21-bienvenido-al-mundowairua.md
-published: true
 url: bienvenido-al-mundowairua/index.html
 _type: Article
 
